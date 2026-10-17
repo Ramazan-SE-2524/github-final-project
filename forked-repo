@@ -1,0 +1,5 @@
+git remote -v
+origin https://github.com/Ramazan-SE-2524/simple-interest-calculator.git (fetch)
+origin https://github.com/Ramazan-SE-2524/simple-interest-calculator.git (push)
+upstream https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub.git (fetch)
+upstream https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub.git (push)
