@@ -1,0 +1,99 @@
+PS C:\Users\User\Desktop\forCoursera\simple-interest-calculator> Invoke-RestMethod -Uri "https://api.github.com/repos/Ramazan-SE-2524/simple-interest-calculator"
+
+
+id                           : 1423490059
+node_id                      : R_kgDOVNi8Cw
+name                         : simple-interest-calculator
+full_name                    : Ramazan-SE-2524/simple-interest-calculator
+private                      : False
+owner                        : @{login=Ramazan-SE-2524; id=251454657; node_id=U_kgDODvzkwQ; avatar_url=https://avatars.githubusercontent.com/u
+                               /251454657?v=4; gravatar_id=; url=https://api.github.com/users/Ramazan-SE-2524; html_url=https://github.com/Ram
+                               azan-SE-2524; followers_url=https://api.github.com/users/Ramazan-SE-2524/followers; following_url=https://api.g
+                               ithub.com/users/Ramazan-SE-2524/following{/other_user}; gists_url=https://api.github.com/users/Ramazan-SE-2524/
+                               gists{/gist_id}; starred_url=https://api.github.com/users/Ramazan-SE-2524/starred{/owner}{/repo}; subscriptions
+                               _url=https://api.github.com/users/Ramazan-SE-2524/subscriptions; organizations_url=https://api.github.com/users
+                               /Ramazan-SE-2524/orgs; repos_url=https://api.github.com/users/Ramazan-SE-2524/repos; events_url=https://api.git
+                               hub.com/users/Ramazan-SE-2524/events{/privacy}; received_events_url=https://api.github.com/users/Ramazan-SE-252
+                               4/received_events; type=User; user_view_type=public; site_admin=False}
+html_url                     : https://github.com/Ramazan-SE-2524/simple-interest-calculator
+description                  :
+fork                         : False
+url                          : https://api.github.com/repos/Ramazan-SE-2524/simple-interest-calculator
+forks_url                    : https://api.github.com/repos/Ramazan-SE-2524/simple-interest-calculator/forks
+keys_url                     : https://api.github.com/repos/Ramazan-SE-2524/simple-interest-calculator/keys{/key_id}
+collaborators_url            : https://api.github.com/repos/Ramazan-SE-2524/simple-interest-calculator/collaborators{/collaborator}
+teams_url                    : https://api.github.com/repos/Ramazan-SE-2524/simple-interest-calculator/teams
+hooks_url                    : https://api.github.com/repos/Ramazan-SE-2524/simple-interest-calculator/hooks
+issue_events_url             : https://api.github.com/repos/Ramazan-SE-2524/simple-interest-calculator/issues/events{/number}
+events_url                   : https://api.github.com/repos/Ramazan-SE-2524/simple-interest-calculator/events
+assignees_url                : https://api.github.com/repos/Ramazan-SE-2524/simple-interest-calculator/assignees{/user}
+branches_url                 : https://api.github.com/repos/Ramazan-SE-2524/simple-interest-calculator/branches{/branch}
+tags_url                     : https://api.github.com/repos/Ramazan-SE-2524/simple-interest-calculator/tags
+blobs_url                    : https://api.github.com/repos/Ramazan-SE-2524/simple-interest-calculator/git/blobs{/sha}
+git_tags_url                 : https://api.github.com/repos/Ramazan-SE-2524/simple-interest-calculator/git/tags{/sha}
+git_refs_url                 : https://api.github.com/repos/Ramazan-SE-2524/simple-interest-calculator/git/refs{/sha}
+trees_url                    : https://api.github.com/repos/Ramazan-SE-2524/simple-interest-calculator/git/trees{/sha}
+statuses_url                 : https://api.github.com/repos/Ramazan-SE-2524/simple-interest-calculator/statuses/{sha}
+languages_url                : https://api.github.com/repos/Ramazan-SE-2524/simple-interest-calculator/languages
+stargazers_url               : https://api.github.com/repos/Ramazan-SE-2524/simple-interest-calculator/stargazers
+contributors_url             : https://api.github.com/repos/Ramazan-SE-2524/simple-interest-calculator/contributors
+subscribers_url              : https://api.github.com/repos/Ramazan-SE-2524/simple-interest-calculator/subscribers
+subscription_url             : https://api.github.com/repos/Ramazan-SE-2524/simple-interest-calculator/subscription
+commits_url                  : https://api.github.com/repos/Ramazan-SE-2524/simple-interest-calculator/commits{/sha}
+git_commits_url              : https://api.github.com/repos/Ramazan-SE-2524/simple-interest-calculator/git/commits{/sha}
+comments_url                 : https://api.github.com/repos/Ramazan-SE-2524/simple-interest-calculator/comments{/number}
+issue_comment_url            : https://api.github.com/repos/Ramazan-SE-2524/simple-interest-calculator/issues/comments{/number}
+contents_url                 : https://api.github.com/repos/Ramazan-SE-2524/simple-interest-calculator/contents/{+path}
+compare_url                  : https://api.github.com/repos/Ramazan-SE-2524/simple-interest-calculator/compare/{base}...{head}
+merges_url                   : https://api.github.com/repos/Ramazan-SE-2524/simple-interest-calculator/merges
+archive_url                  : https://api.github.com/repos/Ramazan-SE-2524/simple-interest-calculator/{archive_format}{/ref}
+downloads_url                : https://api.github.com/repos/Ramazan-SE-2524/simple-interest-calculator/downloads
+issues_url                   : https://api.github.com/repos/Ramazan-SE-2524/simple-interest-calculator/issues{/number}
+pulls_url                    : https://api.github.com/repos/Ramazan-SE-2524/simple-interest-calculator/pulls{/number}
+milestones_url               : https://api.github.com/repos/Ramazan-SE-2524/simple-interest-calculator/milestones{/number}
+notifications_url            : https://api.github.com/repos/Ramazan-SE-2524/simple-interest-calculator/notifications{?since,all,participating}
+labels_url                   : https://api.github.com/repos/Ramazan-SE-2524/simple-interest-calculator/labels{/name}
+releases_url                 : https://api.github.com/repos/Ramazan-SE-2524/simple-interest-calculator/releases{/id}
+deployments_url              : https://api.github.com/repos/Ramazan-SE-2524/simple-interest-calculator/deployments
+created_at                   : 2026-10-17T15:50:57Z
+updated_at                   : 2026-10-17T16:42:16Z
+pushed_at                    : 2026-10-17T16:42:12Z
+git_url                      : git://github.com/Ramazan-SE-2524/simple-interest-calculator.git
+ssh_url                      : git@github.com:Ramazan-SE-2524/simple-interest-calculator.git
+clone_url                    : https://github.com/Ramazan-SE-2524/simple-interest-calculator.git
+svn_url                      : https://github.com/Ramazan-SE-2524/simple-interest-calculator
+homepage                     :
+size                         : 0
+stargazers_count             : 0
+watchers_count               : 0
+language                     : Shell
+has_issues                   : True
+has_projects                 : True
+has_downloads                : False
+has_wiki                     : True
+has_pages                    : False
+has_discussions              : False
+forks_count                  : 0
+mirror_url                   :
+archived                     : False
+disabled                     : False
+open_issues_count            : 0
+license                      : @{key=apache-2.0; name=Apache License 2.0; spdx_id=Apache-2.0; url=https://api.github.com/licenses/apache-2.0;
+                               node_id=MDc6TGljZW5zZTI=}
+allow_forking                : True
+is_template                  : False
+web_commit_signoff_required  : False
+has_pull_requests            : True
+pull_request_creation_policy : all
+topics                       : {}
+visibility                   : public
+forks                        : 0
+open_issues                  : 0
+watchers                     : 0
+default_branch               : main
+temp_clone_token             :
+network_count                : 0
+subscribers_count            : 0
+
+
+
