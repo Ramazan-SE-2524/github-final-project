@@ -1,0 +1,6 @@
+PS C:\Users\User\Desktop\forCoursera\simple-interest-calculator> git branch -a
+  bug-fix-typo
+* main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/main
+git add github-branches
