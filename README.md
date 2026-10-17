@@ -15,6 +15,8 @@ Where:
 ## Usage
 
 1. Clone the repository:
+
    ```bash
    git clone [https://github.com/твое-имя-пользователя/simple-interest-calculator.git](https://github.com/Ramazan-SE-2524/simple-interest-calculator.git)
+
    ```
