@@ -1,8 +1,9 @@
-PS C:\Users\User\Desktop\forCoursera\simple-interest-calculator> git checkout main
+git checkout main
 Switched to branch 'main'
 Your branch is up to date with 'origin/main'.
-PS C:\Users\User\Desktop\forCoursera\simple-interest-calculator> git merge bug-fix-typo
-Updating d3a86b7..715b7f4
+
+git merge bug-fix-typo
+Updating d3a8b71..715b7f4
 Fast-forward
  README.md | 2 +-
  1 file changed, 1 insertion(+), 1 deletion(-)
