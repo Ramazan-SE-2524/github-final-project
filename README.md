@@ -1,6 +1,6 @@
 # Simple Interest Calculator
 
-A simple command-line tool written in Python to calculate simple interest based on the principal amount, annual interest rate, and time period.
+A simple command-line tool written in Python to calculate simple interest based on the principal amount, annual interest rate and time period.
 
 ## Formula
 
